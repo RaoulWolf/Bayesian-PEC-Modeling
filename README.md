@@ -2,9 +2,11 @@ Bayesian PEC modeling
 ================
 
 This repository contains the data and the R scripts for Wolf & Tollefsen
-2021, Environmental Science & Technology. *This README will be updated
-with the final details of the publication as soon as they are
-available.*
+2021, **“A Bayesian approach to incorporating spatiotemporal variation
+and uncertainty limits into modeling of predicted environmental
+concentrations (PECs) from chemical monitoring campaigns”**. *This
+README will be updated with the final details of the publication as soon
+as they are available.*
 
 ## Requirements
 
