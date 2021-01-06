@@ -4,9 +4,9 @@ Bayesian PEC modeling
 This repository contains the data and the R scripts for Wolf & Tollefsen
 2021, **“A Bayesian approach to incorporating spatiotemporal variation
 and uncertainty limits into modeling of predicted environmental
-concentrations (PECs) from chemical monitoring campaigns”**. *This
-README will be updated with the final details of the publication as soon
-as they are available.*
+concentrations (PECs) from chemical monitoring campaigns”**. The article
+will be published in *Environmental Science & Technology*,
+doi:[10.1021/acs.est.0c06268](https://doi.org/10.1021/acs.est.0c06268).
 
 ## Requirements
 
@@ -30,6 +30,6 @@ the Sørfjord campaign, `kaldvellfjord.R` for the Kaldvellfjord campaign,
 and `oslofjord.R` for the Oslofjord campaign.
 
 Additionally, the file `empirical_prior.R` contains a custom function to
-calculate empirical priors. Detailed information on the modelling
+calculate empirical priors. Detailed information on the modeling
 procedure and the calculations of the empirical priors are given in the
 Supporting Information of the publication.
